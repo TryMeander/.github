@@ -1,4 +1,4 @@
-## JetBrains Open Source
+## Meander
 
 At Meander we... 
 

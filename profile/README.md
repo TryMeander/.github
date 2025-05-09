@@ -1,6 +1,6 @@
 ## Meander
 
-At Meander we... 
+Meander helps travel organizations identify and address gaps in their customer experience journeys more quickly. Our platform provides product teams with a direct line of instant, quantified feedback from their customers in real-time. The result: smoother, more impactful customer experiences.
 
 ### Technology 
 
